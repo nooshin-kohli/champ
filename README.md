@@ -45,6 +45,9 @@ If you want to use a [joystick](https://www.logitechg.com/en-hk/products/gamepad
 #### 2.2.1 Run the Gazebo environment:
 
     roslaunch champ_config gazebo.launch 
+you should see robot in the middle of a jungle like the image below:![Screenshot from 2024-11-08 21-33-51](https://github.com/user-attachments/assets/1ffa9b5e-446c-41ba-a04c-d7d361baab18)
+
+
 
 #### 2.2.2 Run gmapping package and move_base:
 
