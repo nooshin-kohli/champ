@@ -4,23 +4,6 @@ ROS Packages for CHAMP Quadruped Controller.
 
 ![champ](https://raw.githubusercontent.com/chvmp/champ/master/docs/images/robots.gif)
 
-CHAMP is an open source development framework for building new quadrupedal robots and developing new control algorithms. The control framework is based on [*"Hierarchical controller for highly dynamic locomotion utilizing pattern modulation and impedance control : implementation on the MIT Cheetah robot"*](https://dspace.mit.edu/handle/1721.1/85490).
-
-Core Features:
-
-- Fully Autonomous (using ROS navigation Stack).
-- [Setup-assistant](https://github.com/chvmp/champ_setup_assistant) to configure newly built robots.
-- Collection of pre-configured [URDFs](https://github.com/chvmp/robots) like Anymal, MIT Mini Cheetah, Boston Dynamic's Spot and LittleDog. 
-- Gazebo simulation environment.
-- Compatible with DIY quadruped projects like [SpotMicroAI](https://spotmicroai.readthedocs.io/en/latest/) and [OpenQuadruped](https://github.com/adham-elarabawy/open-quadruped).
-- Demo Applications like [TOWR](https://github.com/ethz-adrl/towr) and [chicken head](https://github.com/chvmp/chicken_head) stabilization.
-- Lightweight C++ header-only [library](https://github.com/chvmp/libchamp) that can run on both SBC and micro-controllers.
-
-Tested on:
-
-- Ubuntu 16.04 (ROS Kinetic)
-- Ubuntu 18.04 (ROS Melodic)
-
 ## 1. Installation
 
 ### 1.1 Clone and install all dependencies:
