@@ -58,7 +58,8 @@ To start mapping:
 - Click '2D Nav Goal'.
 - Click and drag at the position you want the robot to go.
 
-   ![champ](https://raw.githubusercontent.com/chvmp/champ/master/docs/images/slam.gif)
+   
+![GIF_20241108_215936_155](https://github.com/user-attachments/assets/0bc86ace-e2ff-432b-9b3a-24c58ee33326)
 
 - Save the map by running:
 
